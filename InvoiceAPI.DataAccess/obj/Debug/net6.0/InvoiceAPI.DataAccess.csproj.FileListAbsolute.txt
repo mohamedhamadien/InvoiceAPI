@@ -1,0 +1,15 @@
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\InvoiceAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\InvoiceAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\InvoiceAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\InvoiceAPI.DataAccess.AssemblyInfo.cs
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\InvoiceAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\bin\Debug\net6.0\InvoiceAPI.DataAccess.deps.json
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\bin\Debug\net6.0\InvoiceAPI.DataAccess.dll
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\bin\Debug\net6.0\InvoiceAPI.DataAccess.pdb
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\bin\Debug\net6.0\InvoiceAPI.Models.dll
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\bin\Debug\net6.0\InvoiceAPI.Models.pdb
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\InvoiceAPI.DataAccess.csproj.CopyComplete
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\InvoiceAPI.DataAccess.dll
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\refint\InvoiceAPI.DataAccess.dll
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\InvoiceAPI.DataAccess.pdb
+C:\Users\mm\OneDrive\Desktop\InvoiceAPI\InvoiceAPI.DataAccess\obj\Debug\net6.0\ref\InvoiceAPI.DataAccess.dll
